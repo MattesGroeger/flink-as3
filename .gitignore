@@ -1,0 +1,15 @@
+*/.settings
+*/.project
+*/.classpath
+*/.scala_dependencies
+*tempViewerHTML.html
+bin/main/*.swc
+bin/test/*
+bin/*.swf
+bin/*.zip
+bin_test/*.swf
+docs/*
+target/
+lib_managed/
+src_managed/
+project/boot/
